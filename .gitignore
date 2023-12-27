@@ -1,0 +1,6 @@
+env/
+sql_agent
+.ipynb_checkpoints/
+notebooks/stored_data/*
+.env
+.DS_Store
